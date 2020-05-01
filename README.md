@@ -18,7 +18,7 @@ make
 
 The server is now running on port 8080.
 
-*/view/:page* */edit/:page* are the available pages.
+*/view/:page* and  */edit/:page* are the available handlers by now.
 
 
 Open a browser and access *localhost:8080/view/mynewpage*
