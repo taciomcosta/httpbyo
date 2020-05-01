@@ -1,4 +1,4 @@
-## dnsbyo
+## httpbyo
 
 ## Motivation
 httpbyo is a personal learning project to understand how HTTP servers work under the hood.
